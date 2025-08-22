@@ -1,8 +1,8 @@
-## Hi there, I'm Deeksha 👋
 # 💫 About Me:
-🧠 Computer Science Student at Kansas State University<br/><br>
+👋 Hi, I’m Deeksha — a Computer Science grad student at Kansas State University.  
+🧠 I love exploring the space between **business intelligence and machine learning**. 
 🚀 Work spans from AI pathfinding and sentiment analysis to real-world data wrangling and dashboards<br/><br>
-📊 Always curious, always learning<br/>
+📊 Always curious, always learning - turning **data → insights → impact**.<br/>
 
 
 ## 🌐 Socials:
