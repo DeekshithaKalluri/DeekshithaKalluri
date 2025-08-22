@@ -1,7 +1,6 @@
 ## Hi there, I'm Deeksha 👋
 # 💫 About Me:
 🧠 Computer Science Student at Kansas State University<br/><br>
-💻 Build projects in Python, C, C#, ML<br/><br>
 🚀 Work spans from AI pathfinding and sentiment analysis to real-world data wrangling and dashboards<br/><br>
 📊 Always curious, always learning<br/>
 
